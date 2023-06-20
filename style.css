@@ -1,0 +1,11 @@
+.imgsizing{ /* sizing of img album cover placeholder*/
+    width: 350px;
+    height: 250px;
+}
+
+.container{
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
